@@ -5,6 +5,18 @@
 @import '@stackbit/components/styles/default/style.css';
 @import 'https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-mono;
+  }
+}
+
 /* Examples of overriding CSS */
 /*
 @layer base {
