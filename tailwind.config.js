@@ -13,7 +13,7 @@ module.exports = {
     theme: {
         extend: {  
             fontFamily: {
-        bebas: ['"Bebas Neue"', "sans-serif"],
+        bebas: ['"Bebas Neue"',"sans-serif"],
     },
 
             colors: {
